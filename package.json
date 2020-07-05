@@ -2,7 +2,7 @@
   "name": "reactavancado-extension-pack",
   "displayName": "React Avançado Extension Pack",
   "description": "A collection of extension that we use at ReactAvancado.com.br course.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "willianjusten",
   "engines": {
     "vscode": "^1.46.0"
@@ -21,11 +21,11 @@
     "apollo"
   ],
   "repository": {
-    "url": "https://github.com/ReactAvancado/reactavancado-extension-pack"
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack"
   },
-  "homepage": "https://github.com/ReactAvancado/reactavancado-extension-pack",
+  "homepage": "https://github.com/React-Avancado/reactavancado-extension-pack",
   "bugs": {
-    "url": "https://github.com/ReactAvancado/reactavancado-extension-pack/issues"
+    "url": "https://github.com/React-Avancado/reactavancado-extension-pack/issues"
   },
   "categories": [
     "Extension Packs"

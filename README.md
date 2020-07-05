@@ -1,6 +1,6 @@
 # React Avançado Extension Pack
 
-Conjunto de plugins do VS Code utilizando no [curso de React Avançado](https://reactavancado.com.br/).
+Conjunto de plugins do VS Code utilizado no [curso de React Avançado](https://reactavancado.com.br/).
 
 ## Extensões incluídas
 

@@ -34,6 +34,10 @@ Conjunto de plugins do VS Code utilizado no [curso de React Avançado](https://r
 
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme) - Tema Dark utilizado no VScode.
 
+- [JavaScript and TypeScript Nightly](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next) - Habilita o suporte JavaScript e TypeScript para as próximas versões.
+
+- [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - Fornece recursos de desenvolvimento assistido por IA, baseados no contexto do código combinado com machine learning.
+
 ## Gostaria de instalar somente algumas extensões?
 
 Para instalar somente algumas das extensões, basta editar o arquivo [package.json](package.json) removendo as extensões não desejadas do `extensionPack` e depois siga os procedimentos abaixo para instalar localmente.

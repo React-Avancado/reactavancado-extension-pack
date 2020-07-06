@@ -45,6 +45,8 @@
     "andys8.jest-snippets",
     "skyran.js-jsx-snippets",
     "pulkitgangwar.nextjs-snippets",
-    "zhuangtongfa.material-theme"
+    "zhuangtongfa.material-theme",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode"
   ]
 }

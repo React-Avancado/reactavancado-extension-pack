@@ -63,7 +63,7 @@ $ vsce package
 1. Abra o VS Code
 2. Selecione **Extensions** do menu
 3. Clique em **More** > **Install from VSIX...**
-4. Selecione o arquivo `reactavancado-extensio-pack-x.x.x.vsix`
+4. Selecione o arquivo `reactavancado-extension-pack-x.x.x.vsix`
 5. Clique em **Reload Now** para recarregar o VS Code
 
 ## Tem alguma extensão que gostaria e não tem?

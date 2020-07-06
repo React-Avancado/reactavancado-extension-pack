@@ -2,7 +2,7 @@
   "name": "reactavancado-extension-pack",
   "displayName": "React Avançado Extension Pack",
   "description": "A collection of extension that we use at ReactAvancado.com.br course.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "publisher": "willianjusten",
   "engines": {
     "vscode": "^1.46.0"

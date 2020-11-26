@@ -47,6 +47,8 @@
     "pulkitgangwar.nextjs-snippets",
     "zhuangtongfa.material-theme",
     "ms-vscode.vscode-typescript-next",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "naumovs.color-highlight",
+    "coenraads.bracket-pair-colorizer"
   ]
 }
